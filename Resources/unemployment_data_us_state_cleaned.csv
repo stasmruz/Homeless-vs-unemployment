@@ -1,51 +1,51 @@
-,State,Unemployment_Rate
-2,Nebraska,4.2
-3,South Dakota,4.6
-4,Utah,4.7
-5,North Dakota,5.1
-6,Iowa,5.3
-7,Idaho,5.4
-8,Maine,5.4
-9,Vermont,5.6
-10,Wyoming,5.8
-11,Alabama,5.9
-12,Kansas,5.9
-13,Montana,5.9
-14,Arkansas,6.1
-15,Missouri,6.1
-16,Oklahoma,6.1
-17,Minnesota,6.2
-18,South Carolina,6.2
-19,Virginia,6.2
-20,Wisconsin,6.3
-21,Georgia,6.5
-22,Kentucky,6.6
-23,New Hampshire,6.7
-24,Maryland,6.8
-25,Indiana,7.1
-26,Colorado,7.3
-27,North Carolina,7.3
-28,Tennessee,7.5
-29,Oregon,7.6
-30,Texas,7.6
-31,Florida,7.7
-32,Alaska,7.8
-33,Delaware,7.8
-34,Arizona,7.9
-35,Connecticut,7.9
-37,Mississippi,8.1
-38,Ohio,8.1
-39,Louisiana,8.3
-40,West Virginia,8.3
-41,New Mexico,8.4
-42,Washington,8.4
-43,Massachusetts,8.9
-44,Pennsylvania,9.1
-45,Rhode Island,9.4
-46,Illinois,9.5
-47,New Jersey,9.8
-48,Michigan,9.9
-49,New York,10.0
-50,California,10.1
-51,Hawaii,11.6
-52,Nevada,12.8
+,State,Unemployment_Rate,Unemployment_rank
+2,Nebraska,4.2,1
+3,South Dakota,4.6,2
+4,Utah,4.7,3
+5,North Dakota,5.1,4
+6,Iowa,5.3,5
+7,Idaho,5.4,6
+8,Maine,5.4,6
+9,Vermont,5.6,8
+10,Wyoming,5.8,9
+11,Alabama,5.9,10
+12,Kansas,5.9,10
+13,Montana,5.9,10
+14,Arkansas,6.1,13
+15,Missouri,6.1,13
+16,Oklahoma,6.1,13
+17,Minnesota,6.2,16
+18,South Carolina,6.2,16
+19,Virginia,6.2,16
+20,Wisconsin,6.3,19
+21,Georgia,6.5,20
+22,Kentucky,6.6,21
+23,New Hampshire,6.7,22
+24,Maryland,6.8,23
+25,Indiana,7.1,24
+26,Colorado,7.3,25
+27,North Carolina,7.3,25
+28,Tennessee,7.5,27
+29,Oregon,7.6,28
+30,Texas,7.6,28
+31,Florida,7.7,30
+32,Alaska,7.8,31
+33,Delaware,7.8,31
+34,Arizona,7.9,33
+35,Connecticut,7.9,33
+37,Mississippi,8.1,36
+38,Ohio,8.1,36
+39,Louisiana,8.3,38
+40,West Virginia,8.3,38
+41,New Mexico,8.4,40
+42,Washington,8.4,40
+43,Massachusetts,8.9,42
+44,Pennsylvania,9.1,43
+45,Rhode Island,9.4,44
+46,Illinois,9.5,45
+47,New Jersey,9.8,46
+48,Michigan,9.9,47
+49,New York,10.0,48
+50,California,10.1,49
+51,Hawaii,11.6,50
+52,Nevada,12.8,51
