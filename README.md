@@ -7,6 +7,8 @@
 ●Stanislav Mruz
 ●Edmund Annobil
 
+![homeless](https://images.theconversation.com/files/98033/original/image-20151012-17809-1mo6x74.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
+
 
 ## Background: 
 Homelessness is observed in every state in the US. Individuals are often found at risk of losing their homes due to various factors. Even in high income states whose salaries and wages are slightly higher than the average, homlessness is seen at alarming levels. Experts and researchers attribute this to many factors such as wages and salaries, lack of affordable housing, unemployment, taxes etc.  
