@@ -26,12 +26,12 @@
 </ol>
 
 
-## Data Analyst Objective Extraction of data: 
+### Data Analyst Objective Extraction of data: 
 
 Two different datasets were looked at to perform ETL task items. Homeless in america version 2 csv file and the us unemployment dataset was looked at. Characterisics of unemployment rate, homeless population, age, and gender were taken into account as well. Files were extracted from the referenced sources and loaded into the github repository. 
 
 
-## References
+# References
 
 Sources: [https://www.huduser.gov/]
         [https://www.bls.gov/]
