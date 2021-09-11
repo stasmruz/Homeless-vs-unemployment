@@ -15,13 +15,13 @@
 <li> Created the repository for our project called `Homelessness-vs-unemployment` </li>
 <li> Cloned the new repository to our computer(s) </li>
 <li> Pushed the above changes to GitHub</li>
+</ol>
 
 ### Technology used:
 <ol>
 <li>Tools: Jupyter Notebook and QuickDBD </li>
 <li>Programming language: Python(pandas, Sql-alchemy) and SQL</li>
 <li>Database: PostgreSQL</li>
-
 </ol>
 
 
