@@ -12,9 +12,9 @@
 
 ### Before You Begin:
 
-1. Created the repository for our project called `Homelessness-vs-unemployment`.
+1. Created the repository for our project called `Homelessness-vs-unemployment`
 
-2. Cloned the new repository to our computer(s).
+2. Cloned the new repository to our computer(s)
 
 3. Pushed the above changes to GitHub
 
@@ -27,9 +27,14 @@
 </ol>
 
 
-### Data Analyst Objective Extraction of data: 
+### The scope of the project: 
+<ol>
+<li> Extract data from  sources </li>
+<li> Transform data by cleaning, joining, and filtering </li>
+<li> Load the data into database for analysis</li>
 
-Two different datasets were looked at to perform ETL task items. Homeless in america version 2 csv file and the us unemployment dataset was looked at. Characterisics of unemployment rate, homeless population, age, and gender were taken into account as well. Files were extracted from the referenced sources and loaded into the github repository. 
+</ol>
+ 
 
 
 # References
