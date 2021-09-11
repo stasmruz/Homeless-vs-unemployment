@@ -16,7 +16,7 @@
 
 2. Cloned the new repository to our computer(s).
 
-3. Push the above changes to GitHub
+3. Pushed the above changes to GitHub
 
 ### Technology used:
 <ol>
