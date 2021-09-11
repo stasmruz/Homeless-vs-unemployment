@@ -11,12 +11,10 @@
 ![homeless](https://images.theconversation.com/files/98033/original/image-20151012-17809-1mo6x74.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
 
 ### Before You Begin:
-
-1. Created the repository for our project called `Homelessness-vs-unemployment`
-
-2. Cloned the new repository to our computer(s)
-
-3. Pushed the above changes to GitHub
+<ol>
+<li> Created the repository for our project called `Homelessness-vs-unemployment` </li>
+<li> Cloned the new repository to our computer(s) </li>
+<li> Pushed the above changes to GitHub</li>
 
 ### Technology used:
 <ol>
@@ -29,13 +27,11 @@
 
 ### The scope of the project: 
 <ol>
-<li> Extract data from  sources </li>
+<li> Extract data from sources </li>
 <li> Transform data by cleaning, joining, and filtering </li>
 <li> Load the data into database for analysis</li>
-
 </ol>
  
-
 
 # References
 
