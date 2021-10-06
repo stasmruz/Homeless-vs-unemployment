@@ -8,7 +8,7 @@
 ●Stanislav Mruz
 ●Edmund Annobil
 
-![homeless](https://images.theconversation.com/files/98033/original/image-20151012-17809-1mo6x74.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
+![homeless](![image](https://user-images.githubusercontent.com/72268949/136120440-5aa71654-f41d-40ef-bb4a-041788cb35db.png))
 
 ### Before You Begin:
 <ol>
@@ -18,20 +18,15 @@
 </ol>
 
 ### Technology used:
+
 <ol>
-<li>Tools: Jupyter Notebook and QuickDBD </li>
-<li>Programming language: Python(pandas, Sql-alchemy) and SQL</li>
-<li>Database: PostgreSQL</li>
+<li>Tools: Jupyter Notebook and Visual Studio Code  </li>
+<li>Programming language: Python(pandas) and Javascript</li>
+<li>Database: MongoDB</li>
 </ol>
 
 
 ### The scope of the project: 
-<ol>
-<li> Extract data from sources </li>
-<li> Transform data by cleaning, joining, and filtering </li>
-<li> Load the data into database for analysis</li>
-</ol>
- 
 
 # References
 
